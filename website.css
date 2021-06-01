@@ -45,3 +45,7 @@
 .container{
   padding:0.01em 16px
 }
+
+ul{
+  list-style-type:none
+}
