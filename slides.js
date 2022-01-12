@@ -1,6 +1,6 @@
 
  
-var SlideList1 = ['img/wiggins_dam.jpg', 'img/wiggins_graduate.jpg', 'img/wiggins_labbench.jpg'];
+var SlideList1 = ['img/wiggins_family.jpg', 'img/wiggins_dam2.jpg', 'img/wiggins_graduate.jpg', 'img/wiggins_labbench.jpg', 'img/wiggins_pibbles.jpg'];
 var SlideShow1 = new SlideShow(SlideList1, 'slide1', 5000, "SlideShow1");
 var SlideList2 = ['img/leone_loki.jpg', 'img/leone_xmas.jpg', 'img/leone_potter.jpg'];
 var SlideShow2 = new SlideShow(SlideList2, 'slide2', 5000, "SlideShow2");
