@@ -4,6 +4,10 @@ var SlideList1 = ['img/wiggins_dam.jpg', 'img/wiggins_graduate.jpg', 'img/wiggin
 var SlideShow1 = new SlideShow(SlideList1, 'slide1', 5000, "SlideShow1");
 var SlideList2 = ['img/leone_loki.jpg', 'img/leone_xmas.jpg', 'img/leone_potter.jpg'];
 var SlideShow2 = new SlideShow(SlideList2, 'slide2', 5000, "SlideShow2");
+var SlideList3 = ['img/spresser_pupper1.jpg', 'img/spresser_pupper2.jpg', 'img/spresser_field.jpg'];
+var SlideShow3 = new SlideShow(SlideList3, 'slide3', 5000, "SlideShow3");
+var SlideList5 = ['img/hood_library.jpg', 'img/hood_medal.jpg', 'img/hood_rainbow.jpg'];
+var SlideShow5 = new SlideShow(SlideList5, 'slide5', 5000, "SlideShow5");
 
 function SlideShow(slideList, image, speed, name)
     {
@@ -38,4 +42,4 @@ SlideShow.prototype.play = SlideShow_play;
   }
 }
 
-window.onLoad=SlideShow1.play();SlideShow2.play();
+window.onLoad = SlideShow1.play(); SlideShow2.play(); SlideShow3.play(); SlideShow5.play();
