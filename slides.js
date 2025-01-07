@@ -4,7 +4,7 @@ var SlideList1 = ['img/wiggins_family.jpg', 'img/wiggins_dam2.jpg', 'img/wiggins
 var SlideShow1 = new SlideShow(SlideList1, 'slide1', 5000, "SlideShow1");
 var SlideList2 = ['img/desi1.png', 'img/desi2.png', 'img/desi3.png'];
 var SlideShow2 = new SlideShow(SlideList2, 'slide2', 5000, "SlideShow2");
-var SlideList3 = ['img/claudia1.png', 'img/claudia2.png', 'img/claudia3.png'];
+var SlideList3 = ['img/claudia1.jpeg', 'img/claudia2.jpeg', 'img/claudia3.jpeg'];
 var SlideShow3 = new SlideShow(SlideList3, 'slide3', 5000, "SlideShow3");
 
 
