@@ -2,7 +2,7 @@
  
 var SlideList1 = ['img/wiggins_family.jpg', 'img/wiggins_dam2.jpg', 'img/wiggins_graduate.jpg', 'img/wiggins_labbench.jpg', 'img/wiggins_pibbles.jpg'];
 var SlideShow1 = new SlideShow(SlideList1, 'slide1', 5000, "SlideShow1");
-var SlideList2 = ['img/desi1.png', 'img/desi2.png', 'img/desi3.png'];
+var SlideList2 = ['img/desi1.jpg', 'img/desi2.jpg', 'img/desi3.jpg', 'img/desi4.jpg', 'img/desi5.jpg'];
 var SlideShow2 = new SlideShow(SlideList2, 'slide2', 5000, "SlideShow2");
 var SlideList3 = ['img/claudia1.jpeg', 'img/claudia2.jpeg', 'img/claudia3.jpeg'];
 var SlideShow3 = new SlideShow(SlideList3, 'slide3', 5000, "SlideShow3");
